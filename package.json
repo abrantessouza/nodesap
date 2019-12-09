@@ -1,0 +1,15 @@
+{
+  "name": "expresssap",
+  "version": "1.0.0",
+  "description": "Test SAP Connection with Express NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "strong-soap": "^1.21.0"
+  }
+}
